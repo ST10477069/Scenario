@@ -1,3 +1,7 @@
+OSAMAH KHALED AL_BATATI
+ST10477069
+
+
 🎵 Playlist App
 A simple Android application built using Kotlin and ConstraintLayout. It allows users to navigate between a welcome screen and a song playlist screen, with functionality to view songs, artists, and their comments.
 
